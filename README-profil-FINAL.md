@@ -50,6 +50,6 @@ Je conçois des **applications web et SaaS** intégrant l'IA et l'automation pou
 
 ## Me contacter
 
-[![Site](https://img.shields.io/badge/Site_web-celineharbane.dev-black?style=flat)](https://celineharbane.vercel.app)
+[![Site](https://img.shields.io/badge/Site_web-celineharbane.dev-black?style=flat)](https://site-pro-ivory.vercel.app)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/celineharbane)
